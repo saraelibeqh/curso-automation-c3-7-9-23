@@ -8,14 +8,16 @@ public class Profesor extends Persona {
     private List<Alumno> alumnos;
     public Profesor(String nombre, String apellido){
         super(nombre, apellido);
-        this.alumnos = new ArrayList<>()
+        this.alumnos = new ArrayList<>();
     }
 
     public List<Alumno> getAlumnos() {
         return alumnos;
     }
 
-    public void AgregarAlumno(Alumno alumno) {
+ /*   public void AgregarAlumno(Alumno alumno) {
         this.alumnos = add(alumno);
     }
+
+  */
 }
