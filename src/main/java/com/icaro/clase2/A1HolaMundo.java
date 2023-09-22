@@ -16,7 +16,6 @@ public class A1HolaMundo {
 
         System.out.println('C'); //imprime un caracter /char
 
-        //System.out.println();
 
         //Concatenacion
         System.out.println("Hola " + "Mundo, hoy es: " + 31);
@@ -24,4 +23,3 @@ public class A1HolaMundo {
 
 
     }
-}

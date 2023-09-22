@@ -2,6 +2,7 @@ package com.icaro.clase2;
 
 public class A2DiasdeSemana {
     public static void main(String[] args) {
+
         System.out.println("Dia 1 - Lunes");
         System.out.println("Dia 2 - Martes");
         System.out.println("Dia 3 - Miercoles");
@@ -9,7 +10,5 @@ public class A2DiasdeSemana {
         System.out.println("Dia 5 - Viernes");
         System.out.println("Dia 6 - Sabado");
         System.out.println("Dia 7 - Domingo");
-
-
     }
 }
